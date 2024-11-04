@@ -1,0 +1,31 @@
+\header {
+  title = "Vaccines Made Me Autistic"
+  composer = "Benkio"
+}
+
+\score {
+  \relative c {
+    \tempo 4 = 120
+    e16 e r e
+    e e e e
+    b' g f bes
+    g fis f e
+    bes bes e bes
+    g' e bes d(
+    e) d bes d
+    g, bes f e
+  
+    e'16 e r e
+    e e e e
+    b' g f bes
+    g fis f e
+    bes bes e bes'
+    cis g e bes'
+
+    cis, f g f
+    bes, d f, gis'
+  }
+
+  \layout {}
+  \midi {}
+}
