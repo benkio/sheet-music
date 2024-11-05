@@ -62,6 +62,11 @@
      e e e32 e e16
      r e e e 
      bes' d f, gis'
+
+     cis g e bes'
+     e, cis bes' e,
+     bes g' cis, bes
+     e, f bes e
   }
 
   \layout {}
